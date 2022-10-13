@@ -1,0 +1,19 @@
+span {
+  font-size: 20px;
+}
+div {
+  background-color: black;
+}
+body {
+  color: red;
+}
+
+p.texto1 {
+  font-size: 20px;
+  color: red;
+}
+
+p {
+  font-size: 20px;
+  color: red;
+}
